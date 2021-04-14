@@ -1,9 +1,7 @@
-theme: jekyll-theme-hacker
-
 #
 # This file contains configuration flags to customize your site
 #
-
+theme: jekyll-theme-hacker
 # Name of your site (displayed in the header)
 name: Kekig
 
@@ -86,4 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 
